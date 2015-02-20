@@ -1,5 +1,7 @@
 = Redmine Stuff To Do Plugin
 
+@Depecated: This plugin is not maintained anymore.
+
 The Stuff To Do plugin allows a user to order and prioritize the issues they are doing into a specific order. 
 It also allows to record time on choosen issue and save that time directly to issue time log.
 
@@ -53,7 +55,7 @@ This plugin is licensed under the GNU GPL v2.  See COPYRIGHT.txt and GPL.txt for
 
 == Authored by:
 * Base code: Eric Davis
-* Developed by: GOYELLO.com
+* Developed by: goyello.com
 
 == Credits
 Thanks go to the following people for patches and contributions:
